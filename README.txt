@@ -2,11 +2,8 @@
 
 
 ## Video Walkthrough
-<div>
-    <a href="https://www.loom.com/share/3826f2d0150a47ceb472197222a7fdc8">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/3826f2d0150a47ceb472197222a7fdc8-4d15dcf10eac5889-full-play.gif">
-    </a>
-  </div>
+https://www.loom.com/share/3826f2d0150a47ceb472197222a7fdc8
+
 
 ## License
 
