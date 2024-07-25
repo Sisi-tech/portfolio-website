@@ -4,11 +4,6 @@
 ## Video Walkthrough
 
 
-<div>
-    <a href="#"> </a>
-</div>
-
-
 ## License
 
     Copyright [2024] [Sisi Wang]
