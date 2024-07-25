@@ -2,11 +2,10 @@
 
 
 ## Video Walkthrough
-<p>Will add recorded video/gif here</p>
+
+
 <div>
-    <a href="#">
-      <img style="max-width:300px;" src="#">
-    </a>
+    <a href="#"> </a>
 </div>
 
 
